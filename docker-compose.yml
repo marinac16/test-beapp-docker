@@ -26,6 +26,9 @@ services:
       - ./logs/nginx/:/var/log/nginx
   node:
     build: docker/node
+    expose:
+      - 8080
     volumes:
       - ./logs/node:/var/log/node
-    command: bash -c "npm install && npm watch"
+      - /app/node_modules
+    command: npm start
