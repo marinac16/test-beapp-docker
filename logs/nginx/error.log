@@ -1,0 +1,14 @@
+2021/01/09 13:01:07 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:01:19 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:02:05 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:03:41 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:03:42 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:04:22 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:05:05 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:05:14 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:09:26 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:09:35 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:11:45 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:11:55 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:12:05 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
+2021/01/09 13:12:07 [emerg] 1#0: unknown directive "/nginx/ngin.conf" in /etc/nginx/nginx.conf:2
